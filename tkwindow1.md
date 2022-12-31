@@ -1,7 +1,7 @@
 # Tkinter Windows In Python
 
 To make a window, Input this line for tkinter:\
-`from tkinter import` 
+`from tkinter import *` 
 
 Now to make a window. Input theese:
 
@@ -12,3 +12,6 @@ Now to make a window. Input theese:
 
 
 boom window!
+
+
+(if you are a grepper user and were redirected from a link, This website is either from the owner {Cooldudeseven7} Or another user has decided to use this link as an example in his grepper awnser. )
