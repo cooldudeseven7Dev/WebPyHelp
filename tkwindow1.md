@@ -9,3 +9,6 @@ Now to make a window. Input theese:
 `YOUR WINDOW NAME = Tk()`\
 `your window name.title('Titlebar Text')`\
 `YOUR WINDOW NAME.geometry('width x height')`
+
+
+boom window!
