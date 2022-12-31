@@ -17,7 +17,8 @@ Lastly, Input
 boom window!
 
 # How do I Destroy the window?
-`window name here.destroy()`
+Use the following command (beware, it destroys all the Labels,Buttons, Etc.)\
+Command: `window name here.destroy()`
 
  
    
