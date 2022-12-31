@@ -1,0 +1,11 @@
+# Tkinter Windows In Python
+
+To make a window, Input this line for tkinter:\
+`from tkinter import` 
+
+Now to make a window. Input theese:
+
+
+`YOUR WINDOW NAME = Tk()`\
+`your window name.title('Titlebar Text')`\
+`YOUR WINDOW NAME.geometry('width x height')`\
