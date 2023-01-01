@@ -10,13 +10,13 @@ To make a loop, Use the following code:\
  `your code here. {Etc, print({L9})`\
  
  
- 
+ #
  ## Infinate Loops
  
  
  
  
- ### WARNING: THEESE RUN INDEFINATLY UNTIL YOU USE  quit COMMAND OR A break. YOU HAVE BEEN WARNED 
+ WARNING: THEESE RUN INDEFINATLY UNTIL YOU USE  quit COMMAND OR A break. YOU HAVE BEEN WARNED 
  Infinate Loop Code:\
   `While True:`\
   `   code here`
